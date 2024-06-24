@@ -1,3 +1,8 @@
+Dupla de dois:
+Demétrio M.Lins
+Jackson Araújo
+
+
 # Getting Started with Create React App
 
 ![](.github/Print.png)
